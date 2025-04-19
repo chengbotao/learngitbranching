@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8b90e9c-56bb-4688-b44e-cdc5dd8a26e2" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/B.md" beforeDir="false" afterPath="$PROJECT_DIR$/B.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.md" beforeDir="false" afterPath="$PROJECT_DIR$/main.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "featureB",
+    "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "last_opened_file_path": "/Users/chengbotao/Desktop/learngitbranching",
     "node.js.detected.package.eslint": "true",
