@@ -31,7 +31,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1745074550" />
+                    <option name="lastUsedInstant" value="1745074875" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="featureB" />
+                    <option name="lastUsedInstant" value="1745074686" />
                   </RecentBranch>
                 </list>
               </option>
@@ -105,17 +109,17 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
                   <option value="origin/featureB" />
                 </option>
               </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="featureB" />
-                </option>
-              </RecentGroup>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="main" />
                 </option>
               </RecentGroup>
               <RecentGroup>
